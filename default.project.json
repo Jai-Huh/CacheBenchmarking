@@ -1,0 +1,17 @@
+{
+  "name": "Matter Tests",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerStorage": {
+      "Systems": {
+        "$path": "src/systems",
+        "$className": "Folder"
+      }
+    },
+
+    "ServerScriptService": {
+      "$path": "src/server"
+    }
+  }
+}
